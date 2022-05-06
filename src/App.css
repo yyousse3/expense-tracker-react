@@ -24,6 +24,28 @@
   color: white;
 }
 
+#monthly-cost {
+  padding-top: 1vmin;
+}
+
+#button-center{
+  text-align: center;
+}
+
+#new-month{
+  margin-right: 5vmin;
+}
+
+#new-month, #new-year{
+  margin-top: 2.25vmin;
+  display: inline-block;
+  width: 40%;
+  border-left: 33%;
+  border-radius: 15px;
+
+
+}
+
 .App-link {
   color: #61dafb;
 }
