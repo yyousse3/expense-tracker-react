@@ -265,7 +265,6 @@ Grocery List
   color: var(--clr-grey-1);
   letter-spacing: 2px;
   transition: var(--transition);
-  word-spacing: 10px;
   
 }
 .edit-btn,
