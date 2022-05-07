@@ -212,6 +212,8 @@ Grocery List
   flex: 1 0 auto;
   color: var(--clr-grey-5);
 }
+
+
 .grocery::placeholder {
   font-family: var(--ff-secondary);
   color: var(--clr-grey-5);
@@ -263,6 +265,7 @@ Grocery List
   color: var(--clr-grey-1);
   letter-spacing: 2px;
   transition: var(--transition);
+  
 }
 .edit-btn,
 .delete-btn {

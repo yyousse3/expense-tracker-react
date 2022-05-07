@@ -4,7 +4,7 @@ const List = ({ items, removeItem, editItem }) => {
   return (
     <div className='grocery-list'>
       {items.map((item) => {
-        const { id, title, costOfItem } = item;
+        const { id, title, costOfItem} = item;
         return (
           <article className='grocery-item' key={id}>
             <p className='title'>{title}: ${costOfItem}</p>
